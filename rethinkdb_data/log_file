@@ -1,0 +1,18 @@
+2015-11-02T11:00:59.051019000 0.041908s notice: Recursively removing directory /Users/ali.khawaja/Documents/tragger/rethinkdb_data/tmp
+2015-11-02T11:00:59.053725000 0.044621s notice: Initializing directory /Users/ali.khawaja/Documents/tragger/rethinkdb_data
+2015-11-02T11:00:59.053797000 0.044686s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/ali.khawaja/Documents/tragger/rethinkdb_data' did not already exist or is empty.)
+2015-11-02T11:00:59.054646000 0.045536s notice: Running rethinkdb 2.1.5-2 (CLANG 7.0.0 (clang-700.0.72))...
+2015-11-02T11:00:59.058045000 0.048935s notice: Running on Darwin 15.0.0 x86_64
+2015-11-02T11:00:59.058084000 0.048974s notice: Loading data from directory /Users/ali.khawaja/Documents/tragger/rethinkdb_data
+2015-11-02T11:00:59.778960000 0.769849s info: Automatically using cache size of 563 MB
+2015-11-02T11:00:59.780112000 0.771001s notice: Listening for intracluster connections on port 29015
+2015-11-02T11:00:59.783013000 0.773902s notice: Listening for client driver connections on port 28015
+2015-11-02T11:00:59.783131000 0.774021s notice: Listening for administrative HTTP connections on port 8080
+2015-11-02T11:00:59.783616000 0.774506s notice: Listening on addresses: 127.0.0.1, 10.2.125.199, ::1, fe80::1%1, fe80::12dd:b1ff:feaa:d1b0%4
+2015-11-02T11:00:59.783623000 0.774513s notice: Server ready, "boudesmac030_local_ksl" 7f373df5-6e70-45cd-a98a-46c990a0fe2d
+2015-11-02T11:23:32.032727000 1353.023616s info: Table cd7ecb32-f37a-4fb9-890c-a5372a2b4e86: Added replica on this server.
+2015-11-02T11:23:33.264914000 1354.255804s info: Table cd7ecb32-f37a-4fb9-890c-a5372a2b4e86: Starting a new Raft election for term 1.
+2015-11-02T11:23:33.424981000 1354.415870s info: Table cd7ecb32-f37a-4fb9-890c-a5372a2b4e86: This server is Raft leader for term 1. Latest log index is 0.
+2015-11-02T13:02:58.034621000 6985.765037s info: Table 0b62d091-ba46-4f23-a395-682cc689ad23: Added replica on this server.
+2015-11-02T13:02:59.221586000 6986.952003s info: Table 0b62d091-ba46-4f23-a395-682cc689ad23: Starting a new Raft election for term 1.
+2015-11-02T13:02:59.418460000 6987.148877s info: Table 0b62d091-ba46-4f23-a395-682cc689ad23: This server is Raft leader for term 1. Latest log index is 0.
